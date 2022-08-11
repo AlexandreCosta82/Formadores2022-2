@@ -1,14 +1,14 @@
-# Jogo Travessia
+# Jogo Pong
 ## Formadores2022-2
-### primeiro repositorio funcional e baixar o jogo travessia
-:car:
+### primeiro repositorio funcional e baixar o jogo Pong
+⚾⚾⚾⚾
 
-🚗🚓🚕🛺🚙🏃‍♀️🏃‍♀️🏃‍♂️🏃‍
+⚾⚾⚾⚾⚾
 
 ---
-Utilize as **setas** para a direita ➡, para a esquerda ⬅, para cima ⬆, para baixo ⬇
-Não deixe os veículos te atropelarem
+Utilize as **setas** para cima ⬆, para baixo ⬇
+Não deixe a bolinha tocar nas laterais
 
-CUIDADE: ***Quando o ator é atingido, retorna para o início da via***
+CUIDADE: ***Quando a bolinha encosta nas laterais, perde-se ponto***
 
 ---
